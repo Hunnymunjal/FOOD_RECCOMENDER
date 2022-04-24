@@ -1,4 +1,4 @@
-# FOOD_RECOMENDER
+# FOOD_RECOMMENDER
 # Food-Recommendation-Engine
 
 To recommend food items based on similarity in 'brand' and 'ingredients'.
